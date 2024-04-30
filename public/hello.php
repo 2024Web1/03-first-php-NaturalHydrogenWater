@@ -7,6 +7,6 @@
 </head>
 <body>
     <?php echo("Hello,PHP"); ?>
-    <p>0J0X00X神戸電子</p>
+    <p>0J0400X神戸電子</p>
 </body>
 </html>
